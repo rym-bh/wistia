@@ -1,0 +1,450 @@
+* {
+    margin: 0;
+}
+/* header {
+    display: flex;
+    justify-content: space-around;
+    height: 130px;
+   
+}
+.menu
+{list-style: none;
+display: flex;
+justify-content: space-between; */
+
+
+.intro{
+    width:50%;
+    
+}
+/* 
+.menu {
+    padding:0 300px;
+    
+} */
+.logo
+{width:31.5px;
+    height: 30px;
+    padding:17px 13px 15px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.video {
+    height: 300px;
+padding:48px 48px;
+display: flex;
+justify-content: space-between;
+    
+    background-color:#e7b8c7 ;
+    font-family: Arial, Helvetica, sans-serif ;
+  
+
+
+}
+.contain1
+{display:flex;
+    justify-content: space-between;
+    width:449,67px;
+    height:417px ;
+ 
+}
+.monkey {
+    width:166px;
+    height:104.75px;
+    
+}
+.moz {
+    width:166px;
+    height:104px;
+
+}
+.zendesk {
+    width:163px;
+    height:86px;
+}
+.unbounce {
+    width:163px;
+    height:86px;
+}
+.casper {
+    width:170px;
+    height:89,48px;
+    padding:0px 30px;
+}
+.contain2 {
+    display:flex;
+    justify-content:space-between;
+    padding:90px 0px;
+}
+
+
+.market {
+    flex-flow: row wrap;
+    flex: 1 1 300px;
+    padding: 45px 100px 110px;
+    background-color: rgb(254, 210, 74);
+    display: flex;
+    flex-direction: column-reverse;
+    
+}
+
+
+
+
+
+.b1:hover~.Icon1 {fill: grey;
+
+}
+.b1{
+    background-color:white;
+}
+
+.soapbox{
+
+    flex-flow: row wrap;
+    flex: 1 1 300px;
+    padding: 45px 100px 110px;
+    
+    display: flex;
+    flex-direction: column-reverse;
+background-color: #51c29f;
+}
+.skills{
+    flex-flow: row wrap;
+    flex: 1 1 300px;
+    padding: 45px 100px 110px;
+    
+    display: flex;
+    flex-direction: column-reverse;
+background-color:#3ea9f5;
+
+}
+button {
+    width:180px;
+    height:60px;
+    
+}
+p{
+    padding: 0px 0px 25px;
+    
+}
+.title1{
+    
+    padding: 15px 0px 10px;
+}
+.b1 {
+    background-color: #fed24a;
+}
+.b2{
+    background-color: #51c29f;
+
+}
+.b2:hover~.Icon2{
+    fill: grey;
+}
+.b2:hover{
+    background-color: white;
+}
+.b3{
+    background-color:#3ea9f5;
+}
+.b3:hover~.Icon3{
+    fill: grey;
+}
+.b3:hover{
+    background-color: white;
+}
+   .blogin
+   {
+      padding: 0px 16.5px;
+      width:100px;
+      height:39px;
+   }
+.bstarted
+{
+    padding: 0px 16.5;
+    width:107.7px;
+    height:39px;
+    background-color: #3ea9f5;
+}
+.btn{
+    padding: 17px 13px 15px;
+    display: flex;
+    align-items: flex-end;
+}
+
+h1{
+    margin-bottom: 40px 
+    
+}
+.imag1
+{
+  width:340px;
+    height:243px;
+    padding:0px 20px;
+    
+   
+}
+.imag2
+{
+    width:340px;
+    height:243px;
+    padding:0px 20px;
+    
+   
+}
+.imag3{
+    width:340px;
+    height:243px;
+    padding:0px 20px;
+    
+}
+.images{
+
+display:flex;
+justify-content: space-between;
+    padding:60px 0px;
+    
+}
+.proud{
+    padding: 0px 30px;
+    color:#9CA8B7 ;
+
+}
+.texte{
+    display:flex;
+justify-content: space-between;
+
+
+}
+.texte1{
+    padding: 0px 20px;
+    margin: 0 0 30px;
+}
+.texte2{
+    padding: 0px 20px;
+    margin: 0 0 30px;
+}
+.texte3{
+    padding: 0px 20px;
+    margin: 0 0 30px;
+}
+.update{
+    
+     padding: 4px 4px; 
+    width:100%;
+    height:71px;
+    
+    background-color:#EFEFEF ;
+}
+.label{
+    width: 100%;
+    display: flex;
+    
+    text-align: center;
+    
+    
+}
+
+
+    
+  
+  .imag1:hover {
+     
+     opacity:0.5;   
+  }
+  .imag2:hover{
+opacity:0.4;
+  }
+  .imag3:hover{
+    opacity:0.4;
+      }
+      .b2:hover{
+          opacity:0.4;
+
+      }
+      .b1:hover{
+          opacity:0.4;
+      }
+      .b3:hover{
+        opacity:0.4;
+    }
+   
+    .navbar{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+   
+
+   
+   .end{
+    list-style: none;
+    display: flex;
+        justify-content: space-between;
+
+   }
+   .end1{
+       display: flex;
+       flex-direction: column;
+       padding: 40px 40px;
+   }
+   .end2{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px;
+   }
+   .end3{
+    display: flex;
+    flex-direction: column;  
+   }
+   .end4{
+    display: flex;
+    flex-direction: column;
+   }
+   .end5{
+    display: flex;
+    flex-direction: column;
+   }
+
+
+   /* .dropdown{
+    background-color: white;
+    display:none;
+    position :absolute;
+    
+   } */
+   /* .drop:hover .dropdown{
+    display:flex;
+    
+    
+  }
+  .drop{
+      display: flex;
+      justify-content: space-between;
+  }
+.dropdown1{
+    background-color: royalblue;
+    display:none;
+    position :absolute;
+
+}
+.drop1:hover .dropdown1{
+    display:flex;
+    flex-direction:column;
+}
+.dropdown2{
+    display:none;
+    position :absolute;
+    background-color: seagreen;
+}
+.drop2:hover .dropdown2{
+    display:flex;
+    flex-direction:column;
+}
+.dropdown3{
+    display:none;
+    position :absolute;
+    background-color: white;
+}
+
+.drop3:hover .dropdown3{
+    display:flex;
+    flex-direction:column;
+} */
+.logowistia{
+    width: 50px;
+    
+}
+.logos{
+    display: flex;
+    flex-direction: column;
+}
+.dropdown{
+    list-style: none;
+}
+.end{
+    background-color:#2a2d35 ;
+    height: 400px;
+}
+.footer{
+    font-size: 30px;
+    line-height: 1.3;
+    max-width: 350px;
+}
+.vert{
+    color:#56bd8d ;
+    
+}
+.blanc{
+    color:white;
+}
+.gris{
+    color:#9CA8B7;
+}
+.blue{
+   color: #3EA9F5
+}
+.red{
+    color:#FD9786
+}
+.end5{
+    font-size: 13px;
+    padding: 40px 40px;
+}
+
+
+.end3{
+    font-size: 13px; 
+    padding: 40px 40px;
+}
+.end6{
+    font-size: 13px;
+    padding: 40px 40px;
+}
+.end2{
+    font-size: 13px;
+    padding: 40px 40px;
+}
+.endlogo{
+    width: 25px;
+    height:25px
+}
+.endofpage{
+display:flex;
+justify-content: center;
+background-color:#2a2d35 ;
+color:white
+}
+.colorwhite{
+    color: white;
+    font-size: 43px;
+}
+/* ameni */
+.menu{
+    display: flex;
+    border: 2px solid;
+    justify-content: space-between;
+    width:50%
+}
+header{
+    align-items: baseline;
+    display:flex ;
+    justify-content: space-between;
+}
+.dropdown{
+    display: none;
+    background-color: tomato;
+    position:absolute;
+     
+}
+.list{
+    background-color: teal;
+    position: relative;
+
+}
+.list:hover .dropdown{
+    display: flex;
+    flex-direction: column;
+}
